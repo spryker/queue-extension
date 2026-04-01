@@ -10,4 +10,6 @@
     <transfer name="QueueMetricsResponse" strict="true">
     </transfer>
 
+    <transfer name="QueueInformationCollection">
+    </transfer>
 </transfers>
